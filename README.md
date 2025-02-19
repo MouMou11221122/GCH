@@ -5,4 +5,4 @@ tui enable
 Ctrl + l
 
 ### switch TUI windows (source code / GDB command view)
-Ctrl + x + o
+(Ctrl + x) + o
